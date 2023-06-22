@@ -1,0 +1,31 @@
+{
+  "components": [
+    {
+      "label": "Name",
+      "type": "textfield",
+      "id": "Field_1w72lo7",
+      "key": "name"
+    },
+    {
+      "label": "CITY",
+      "type": "textfield",
+      "id": "Field_0ycgpjs",
+      "key": "city"
+    },
+    {
+      "label": "Status",
+      "type": "textfield",
+      "id": "Field_14m84nc",
+      "key": "status"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1ctw45d",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.9.0"
+  },
+  "schemaVersion": 7
+}
